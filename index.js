@@ -20,7 +20,7 @@ const posts = [
     id: 2,
     title: "Node.js e Express",
     content: "Piccola guida su come iniziare con Node e Express.",
-    image: "/images/post2.jpg",
+    image: "/images/post2.webp",
     tags: ["node", "express", "tutorial"]
   },
   {
